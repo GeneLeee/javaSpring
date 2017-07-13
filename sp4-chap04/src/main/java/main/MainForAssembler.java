@@ -41,7 +41,7 @@ public class MainForAssembler {
 		
 		while(true){
 			System.out.println();
-			System.out.println("Git 연동 동시 테스팅 중입니다!");
+			System.out.println("Git 연동 동시 테스팅 중입니다!!! 3번째!");
 			myPrint("이것은 Chap04입니다..");
 			System.out.println("명령어를 입력하세요 : ");
 			String command = reader.readLine();
